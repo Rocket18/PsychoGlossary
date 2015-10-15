@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/deleteterm" android:title="@string/_delterm"></item>
+    <item android:id="@+id/updateterm" android:title="@string/_updterm"></item>
+</menu>

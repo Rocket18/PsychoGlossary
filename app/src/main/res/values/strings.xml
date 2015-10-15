@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PsychoGlossary</string>
+    <string name="_term">Термін</string>
+    <string name="_desc">Визначення</string>
+    <string name="_psycho">Психологія</string>
+    <string name="_choice">Виберіть предмет</string>
+    <string name="_addterm">Додати</string>
+    <string name="_addnew">Додати новий термін</string>
+    <string name="_delterm">Видалити елемент</string>
+    <string name="_updterm">Оновити елемент</string>
+    <string name="_okay">Підтвердити</string>
+    <string name="_addsub">Додати категорію</string>
+    <string name="_newsub">Нова категорія</string>
+    <string name="_viewall">Переглянути всі</string>
+    <string name="_glossary">Словник термінів</string>
+</resources>
